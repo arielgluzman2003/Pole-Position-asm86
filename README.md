@@ -1,4 +1,4 @@
-# asm-project
+# Pole-Position-asm86
 My Assembly x86 school project, a game of a car dodging road obstacles.
 Designed for DOS Environment (Tested with [DOSBOX](https://www.dosbox.com/)).
 
